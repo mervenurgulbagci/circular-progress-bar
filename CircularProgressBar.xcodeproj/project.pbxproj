@@ -13,6 +13,7 @@
 		71E64DA22A08D36500AA7A9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71E64DA02A08D36500AA7A9C /* Main.storyboard */; };
 		71E64DA42A08D36600AA7A9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E64DA32A08D36600AA7A9C /* Assets.xcassets */; };
 		71E64DA72A08D36600AA7A9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71E64DA52A08D36600AA7A9C /* LaunchScreen.storyboard */; };
+		71E64DAF2A08D3F800AA7A9C /* CircularProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E64DAE2A08D3F800AA7A9C /* CircularProgressBarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		71E64DA32A08D36600AA7A9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71E64DA62A08D36600AA7A9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71E64DA82A08D36600AA7A9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71E64DAE2A08D3F800AA7A9C /* CircularProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				71E64D9A2A08D36500AA7A9C /* AppDelegate.swift */,
 				71E64D9C2A08D36500AA7A9C /* SceneDelegate.swift */,
 				71E64D9E2A08D36500AA7A9C /* ViewController.swift */,
+				71E64DAE2A08D3F800AA7A9C /* CircularProgressBarView.swift */,
 				71E64DA02A08D36500AA7A9C /* Main.storyboard */,
 				71E64DA32A08D36600AA7A9C /* Assets.xcassets */,
 				71E64DA52A08D36600AA7A9C /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				71E64D9F2A08D36500AA7A9C /* ViewController.swift in Sources */,
 				71E64D9B2A08D36500AA7A9C /* AppDelegate.swift in Sources */,
+				71E64DAF2A08D3F800AA7A9C /* CircularProgressBarView.swift in Sources */,
 				71E64D9D2A08D36500AA7A9C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
